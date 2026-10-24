@@ -1,0 +1,2 @@
+recruiter_name,recruiter_email,role,post_url,candidate,email_sent_status,timestamp,subject,message_id,followup_count,last_followup_at,replied
+Recruiter,recruiter@example.com,Senior Python Engineer,,Jane Doe,sent,2026-10-24 06:19:52,Jane Doe | Senior Python Engineer opportunity with U.S. C2C focus,<<abc123-followup@linkedinoutreach.local>,1,2026-10-24 06:19:52,0
